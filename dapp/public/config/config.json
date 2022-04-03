@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xb1626417Ad23C15Fa87aE825f1dE9AF8812Dad7c",
+  "SCAN_LINK": "https://polygonscan.com/token/0xb1626417Ad23C15Fa87aE825f1dE9AF8812Dad7c",
+  "NETWORK": {
+    "NAME": "FUSE",
+    "SYMBOL": "FUSE",
+    "ID": 123
+  },
+  "NFT_NAME": "The Stripes NFT",
+  "SYMBOL": "TSNFT",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 50000000000000000,
+  "WEI_PRESALECOST": 30000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
